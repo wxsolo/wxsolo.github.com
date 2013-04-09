@@ -14,3 +14,4 @@ jekyll很棒,尤其是那句“像写代码一样写博客”,让我放弃了臃
 - [git](http://git-scm.com)
 - [sublime text2](http://www.sublimetext.com)
 - [ubuntu 12.04](http://www.ubuntu.com)
+- [多说](http://duoshuo.com)
