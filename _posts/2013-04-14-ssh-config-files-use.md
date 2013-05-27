@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ssh config files use"
+title: "配置ssh的config文件"
 description: "wxsolo's bolg"
 category: Technology
 tags: [ssh,git,config]

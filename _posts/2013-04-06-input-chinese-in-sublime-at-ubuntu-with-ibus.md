@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Input chinese in sublime at ubuntu with ibus"
+title: "解决sublime在ubuntu下无法输入中文"
 description: "wxsolo's bolg"
 tagline: ""
 category: Technology
