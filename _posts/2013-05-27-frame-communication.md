@@ -20,7 +20,7 @@ ps: 如果可以不用frame,建议别用,影响seo优化的同时也复杂了DOM
 
 ##主要概念
 
-在垮frame脚本中有四个要点:
+在跨frame脚本中有四个要点:
 *	window或者self指向当前frame中的页面;
 *	parent则指向包含当前页的frame中的页面;
 *	top指向最顶层的frame所包含页面.如果继承关系中只有一个frameset,则parent和top的指向都一样;
