@@ -1,10 +1,16 @@
 ---
-layout: 
+layout: page 
 title: "Resume"
 description: ""
 group: navigation
 ---
 {% include JB/setup %}
+
+#伍星的个人简历
+###基本信息
+*	中南民族大学2010级本科,计算机科学与技术专业,
+*	伍星,男,九一年出生
+*	电话:135-4508-5829,邮箱:<a href="mailto:#">wxsolo0521[at]gmail.com/</a>
 
 <!-- 基本资料start -->
 <!-- <div class="span4">
