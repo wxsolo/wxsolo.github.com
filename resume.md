@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 title: "Resume"
 description: ""
 group: navigation
@@ -7,7 +7,7 @@ group: navigation
 {% include JB/setup %}
 
 <!-- 基本资料start -->
-<div class="span4">
+<!-- <div class="span4">
   <img src="./images/solo.jpg" class="img-circle">
 </div>
 <div class="span8">
@@ -27,11 +27,11 @@ group: navigation
 			<span>QQ:849676153</span>
 		</p>
 	</div>
-</div>
+</div> -->
 <!-- 基本资料end -->
 
 <!-- 基本技能start -->
-<div class="span5">
+<!-- <div class="span5">
 	<h3>基本技能</h3>
 	  <p>求职意向：Web前端/Php开发,暑假实习</p>
 	  <p>比较熟练：html,css,js,php,mysql</p>
@@ -46,7 +46,7 @@ group: navigation
 	  <p>2012.04:第三届蓝桥杯全国软件大赛湖北省三等奖</p>
 	  <p>2012.06~~至今：比特工场项目主管</p>
 	  <p>2012.10:中南民族大学"优秀学生干部"</p>
-</div>
+</div> -->
 <!-- 基本技能end -->
 
 <!-- <ul class="thumbnails">
