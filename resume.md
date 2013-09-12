@@ -9,7 +9,7 @@
 ---
 ###求职意向
 
-web前端开发/php工程师
+web前端开发/php工程师/Android开发工程师
 
 ---
 ###技能树
@@ -52,3 +52,5 @@ web前端开发/php工程师
 ###关于我
 *	爱好编程,喜欢研究小东西,团队合作能力强,性格开朗
 *	熟悉LMAP开发,关注前端开发,了解android开发,熟悉git等工具
+---
+本文基于Markdown语言，推荐markdown编辑器Sublime Text
