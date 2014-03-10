@@ -12,23 +12,23 @@ tags: [ssh,git,config]
 但有多个不同的私钥在同一客户端使用时,可以使用config文件来配置不同的站点指定相应的私钥.
 ## Example
 
-		Hust example.com    
-			HustName example.com
+		Host example.com    
+			HostName example.com
 			User username
 			IdentityFile ~/.ssh/the_private_kye_name
 
-Hust 			为在客户端定义的主机别名,可以自定义.
+Host 			为在客户端定义的主机别名,可以自定义.
 
-HustName 		为要访问的站点域名或ip.
+HostName 		为要访问的站点域名或ip.
 
 User 			登录站点用户名
 	
 IdentityFile 	ssh访问站点时指定私钥的路径
 
-使用Hust指定别名,如:
+使用Host指定别名,如:
 
-		Hust test
-			HustName www.stuzone.com
+		Host test
+			HostName www.stuzone.com
 			User username
 			IdentityFile ~/.ssh/the_private_kye_name
 
